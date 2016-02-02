@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * MongoLog
+ */
+class MongoLog {
+}
